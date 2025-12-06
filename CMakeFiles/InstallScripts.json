@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/cmake_install.cmake",
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/thirdparty/glad-opengl-3.3-core/cmake_install.cmake",
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/thirdparty/glfw-3.4/cmake_install.cmake",
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/thirdparty/glfw-3.4/src/cmake_install.cmake",
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/thirdparty/fmt-11.2.0/cmake_install.cmake",
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/453-skeleton/cmake_install.cmake",
+		"/Users/kamruljaman/Downloads/Chrome FDM/CPSC-453-Assignment-4-Demo-F25-main/build/application/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib453-skeleton.a "CMakeFiles/453-skeleton.dir/AssetPath.cpp.o" "CMakeFiles/453-skeleton.dir/GLDebug.cpp.o" "CMakeFiles/453-skeleton.dir/GLHandles.cpp.o" "CMakeFiles/453-skeleton.dir/PickBuffer.cpp.o" "CMakeFiles/453-skeleton.dir/Shader.cpp.o" "CMakeFiles/453-skeleton.dir/ShaderProgram.cpp.o" "CMakeFiles/453-skeleton.dir/Texture.cpp.o" "CMakeFiles/453-skeleton.dir/Time.cpp.o" "CMakeFiles/453-skeleton.dir/VertexArray.cpp.o" "CMakeFiles/453-skeleton.dir/VertexBuffer.cpp.o" "CMakeFiles/453-skeleton.dir/Window.cpp.o"
+/usr/bin/ranlib lib453-skeleton.a
